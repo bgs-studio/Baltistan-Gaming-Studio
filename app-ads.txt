@@ -8,7 +8,6 @@ ignitemediatech.com, pub_61350, DIRECT
 lunamedia.io, 231539731133, DIRECT, 524ecb396915caaf
 flat-ads.com, 182, DIRECT
 betweendigital.com, 45117, DIRECT
-applovin.com, cd4fc1eaeab59cc96879eb552b31534d, DIRECT
 video.unrulymedia.com, 7418256711870870085, RESELLER
 webeyemob.com, 70133, DIRECT
 yeahmobi.com, 114386, DIRECT
@@ -3944,6 +3943,7 @@ pubmatic.com, 160565, DIRECT, 5d62403b186f2ace
 pangleglobal.com, 9898, DIRECT
 google.com, pub-5784311004955543, DIRECT, f08c47fec0942fa0
 google.com, pub-7188592076082444, DIRECT, f08c47fec0942fa0
+applovin.com, cd4fc1eaeab59cc96879eb552b31534d, DIRECT
 admanmedia.com, 9, RESELLER
 advertising.com, 8693, RESELLER
 aol.com, 25910, RESELLER
